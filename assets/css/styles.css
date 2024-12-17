@@ -14,8 +14,8 @@
   position: relative;
   background: url(../images/logo.png) no-repeat center center;
   background-size: cover;
-  width: 512px;
-  height: 256px;
+  width: 256px;
+  height: 128px;
   text-indent: -9999px;
   margin: auto;
 }
